@@ -7,7 +7,7 @@
 - 🎓 Pursuing **B.Tech in AIML** at **Narula Institute of Technology (2023-2027)**.
 - 💻 Passionate about **MERN Stack Development & AI/ML**.
 - 🌱 Currently learning **Advanced AI & Full Stack Development**.
-- 👨‍💻 Backend Developer at **Hackaholics** Hackathon Team.
+- 👨‍💻 Backend Developer at **Hackaholics** Hackathon Team😅
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
