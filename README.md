@@ -40,7 +40,7 @@
 
 <br/>
 
-<a href="https://github.com/Chooubeyji">
+<a href="https://github.com/AIChoubeyX">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIChoubeyX&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIChoubeyX&theme=buefy&layout=compact" />
 </a>
