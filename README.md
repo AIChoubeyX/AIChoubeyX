@@ -81,6 +81,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIChoubeyX&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+
+<!-- ✅ Added WakaTime here -->
+  <a href="https://wakatime.com/@6558f5fd-a6fa-443d-bbed-b858f3baf479">
+    <img src="https://wakatime.com/badge/user/6558f5fd-a6fa-443d-bbed-b858f3baf479.svg" alt="Total time coded since Sep 16 2023" />
+  </a>
+
+</div>
+
 ---
 
 ## 📈 **Activity Graph**
@@ -91,17 +100,16 @@
 
 ---
 
-
 ## 🤝 **Let's Connect!**
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/ashutosh-choubey-46695928b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yourhandle">
+  <a href="https://instagram.com/choubey_jii1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ashutoshchoubey2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -121,7 +129,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AIChoubeyX&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with Love" />
   <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=flat-square" alt="Powered by Coffee" />
 </div>
