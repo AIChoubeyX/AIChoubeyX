@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AIChoubeyX&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AIChoubeyX?style=for-the-badge&color=00D9FF&labelColor=000000" alt="Followers" />
+  
 </div>
 
 ---
@@ -30,6 +31,21 @@
 <br clear="right"/>
 
 ---
+---
+
+## ⏱️ **Coding Stats (WakaTime)**
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/6558f5fd-a6fa-443d-bbed-b858f3baf479.svg)](https://wakatime.com/@6558f5fd-a6fa-443d-bbed-b858f3baf479)
+
+<!-- <img 
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=6558f5fd-a6fa-443d-bbed-b858f3baf479&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&custom_title=WakaTime+Stats" 
+  alt="WakaTime Stats"
+/> -->
+
+</div>
+
 
 ## 🛠️ **Tech Stack**
 
@@ -81,6 +97,7 @@
 </div>
 
 ---
+
 
 ## 📊 **GitHub Analytics**
 
