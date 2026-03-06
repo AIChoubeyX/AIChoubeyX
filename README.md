@@ -55,15 +55,15 @@
 ###
 ### Connect with me  on
 <div align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/ashutosh-choubey-46695928b" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
   </a>
   <img width="12"  />
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://www.instagram.com/choubey_jii1" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
   </a>
   <img width="12"  />
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/choubeyjii_1" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter logo"  />
   </a>
 </div>
