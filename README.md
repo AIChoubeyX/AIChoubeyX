@@ -76,15 +76,3 @@
 
 ###
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AIChoubeyX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIChoubeyX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.vercel.app/?user=AIChoubeyX&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
-</div>
-
-###
