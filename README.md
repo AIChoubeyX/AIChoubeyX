@@ -29,7 +29,7 @@
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="typescript logo"  />
 </div>
 
 ###
