@@ -1,4 +1,4 @@
-![Ashutosh Choubey](https://github.com/AIChoubeyX/AIChoubeyX/blob/main/myban.png?raw=true)
+![Ashutosh Choubey](https://github.com/AIChoubeyX/AIChoubeyX/blob/main/bann.jpeg?raw=true)
 
 
 ### Skills
